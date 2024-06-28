@@ -1,0 +1,11 @@
+# Syntax highlighting for MSGEQ7 library
+
+# Datatypes
+Datatype      KEYWORD1
+
+# Methods
+begin         KEYWORD2
+strobeRead    KEYWORD2
+
+# Classes
+MSGEQ7        KEYWORD3
